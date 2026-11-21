@@ -2,7 +2,7 @@
 
 Jogo de caça-palavras sobre **Arquitetura Computacional**, feito em HTML, CSS e JavaScript.
 
-🔗 **Jogue aqui:** 
+🔗 **Jogue aqui:https://thayssamarques.github.io/arqcomp-cruzadinha/** 
 
 ## Como jogar
 
