@@ -18,18 +18,18 @@ Jogo de caça-palavras sobre **Arquitetura Computacional**, feito em HTML, CSS e
 
 ## Diferenciais
 
-- 💻 Tela de boot: o jogo começa como um computador ligando, com o botão "♥ Ligar"
-- 💾 Visual de sistema operacional retrô cor-de-rosa ("LoverOS"), com janelas e fonte pixelada
-- 🤖 Chipinho, o mascote: um chip fofo que fica feliz quando você acerta, triste quando erra e pensativo quando você pede dica
-- 📖 "Você sabia?": cada palavra encontrada mostra uma curiosidade sobre aquele componente
-- 💗 Barra "Carregando amor..." que enche conforme as palavras são encontradas
-- 🖱️ Prévia da seleção: ao passar o mouse, a linha de letras fica destacada
-- ✨ Animação em onda ao encontrar uma palavra e chuva de corações no final
-- ⏱️ Cronômetro
-- ⭐ Pontuação e estrelas no final
-- 💡 Sistema de dicas limitado (3 por partida)
-- 🎨 Cor diferente para cada palavra encontrada
-- 📱 Funciona no celular
+- 💻 Tela de boot: o jogo começa como um computador ligando, com o botão "♥ Ligar";
+- 💾 Visual de sistema operacional retrô cor-de-rosa ("LoverOS"), com janelas e fonte pixelada;
+- 🤖 Chipinho, o mascote: um chip fofo que fica feliz quando você acerta, triste quando erra e pensativo quando você pede dica;
+- 📖 "Você sabia?": cada palavra encontrada mostra uma curiosidade sobre aquele componente;
+- 💗 Barra "Carregando amor..." que enche conforme as palavras são encontradas;
+- 🖱️ Prévia da seleção: ao passar o mouse, a linha de letras fica destacada;
+- ✨ Animação em onda ao encontrar uma palavra e chuva de corações no final;
+- ⏱️ Cronômetro;
+- ⭐ Pontuação e estrelas no final;
+- 💡 Sistema de dicas limitado (3 por partida);
+- 🎨 Cor diferente para cada palavra encontrada;
+- 📱 Funciona no celular.
 
 ## Palavras e pistas
 
